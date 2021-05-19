@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.3'
 # postgres database
 gem 'pg', '~> 0.18.4b'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 #Sign in auth
 gem 'devise'
 # Use SCSS for stylesheets
